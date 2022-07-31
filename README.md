@@ -1,3 +1,3 @@
 # mern-shoppinglist
 
-https://mern-stack-shopping.herokuapp.com/
+A simple mern stack shopping list.
